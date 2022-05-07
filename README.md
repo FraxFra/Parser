@@ -1,5 +1,5 @@
 # Parser
-The Parser is a lexical analyser that catches lexical errors .<br/>
+The Parser is a syntactic analyser that catches syntactic errors .<br/>
 Input -> Sequence of tokens produced by the lexer.<br/>
 Output ->Analysed Sequence on tokens syntactically cottect.<br/>
 
