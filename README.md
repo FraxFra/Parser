@@ -1,7 +1,7 @@
 # Parser
 The Parser is a lexical analyser that catches lexical errors .<br/>
-Input -> file.txt containing source code written with the following grammar<br/>
-Output -> Sequence on tokens that encodes the content of file.txt
+Input -> Sequence of tokens produced by the lexer.<br/>
+Output ->Analysed Sequence on tokens syntactically cottect.<br/>
 
 ## Grammar
 ```
